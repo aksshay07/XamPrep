@@ -1,0 +1,11 @@
+Guidelines-
+1. Download xampp installer from attached files.
+2. Install Xampp.
+3.Extract all the files from the zipped file and make a folder which should be copied in htdocs folder in the xampp file.
+4. Once the file is copied, name it arushi.
+5.Go to the xampp controls inside the xampp folder.
+6. Open controls and click start only on apache and MySQL.
+7. Type localhost on google chrome. The main page of website will be visible. First register your email then log in.
+8. For database table, in the other tab ,open localhost\dashboard.
+9. click on phpmyadmin and then click on user_registrations.
+10. Further click on users and the dataset of registered user with password and id can be seen.
